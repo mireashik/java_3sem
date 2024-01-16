@@ -233,3 +233,32 @@ final String PASSWORD = "password";
 - Wrapper-классы
 
 ### 11. Объявление и использование бестиповых переменных в Джава
+```java
+// Объявление списка с элементами типа String
+List<String> stringList = new ArrayList<>();
+stringList.add("Привет");
+stringList.add("Мир");
+
+// Объявление карты с ключами типа Integer и значениями типа Double
+Map<Integer, Double> myMap = new HashMap<>();
+myMap.put(1, 3.14);
+myMap.put(2, 2.71);
+```
+
+```
+public class Box<T> {
+    private T value;
+
+    public void setValue(T value) {
+        this.value = value;
+    }
+
+    public T getValue() {
+        return value;
+    }
+}
+```
+
+Во всех случаях, кроме заголовка класса, символ T пишется без угловых скобок, он обозначает один и тот же параметр типа.
+
+Параметром типа для дженерика может быть только ссылочный тип, интерфейс или перечисление (enum). Примитивные типы и массивы с дженериками не используются, то есть нельзя создать Box<int> или Box<int[]>, но можно — Box<Integer> или Box<List<Integer>>.
