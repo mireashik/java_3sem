@@ -1,4 +1,4 @@
-![image](https://github.com/mireashik/java_3sem/assets/49165758/4fa2d5f9-de00-417d-98a0-8e1da03f330c)Практики: https://north-baron-8f3.notion.site/5874554c3d654964983d8d99de38df7b
+Практики: https://north-baron-8f3.notion.site/5874554c3d654964983d8d99de38df7b
 <br>
 https://github.com/fl-3650/JavaExamPractice
 
@@ -1000,6 +1000,8 @@ public class Example {
 ![image](https://github.com/mireashik/java_3sem/assets/49165758/8f1ca0c9-f109-4789-9d5b-25bf2348860a)
 
 ### 34. Использование языка UML для проектирования и документирования объектноориентированных программ. Основные UML диаграммы для отображения отношений между классами в ООП программах
+![image](https://github.com/mireashik/java_3sem/assets/49165758/4fa2d5f9-de00-417d-98a0-8e1da03f330c)
+
 ![image](https://github.com/mireashik/java_3sem/assets/49165758/6248f89a-2d9f-4a04-98e3-1fbe1a31e9b4)
 
 ![image](https://github.com/mireashik/java_3sem/assets/49165758/10a5ee28-0f81-4592-96a2-46cc83d5ea95)
