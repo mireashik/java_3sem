@@ -1,4 +1,8 @@
-Практики: https://north-baron-8f3.notion.site/5874554c3d654964983d8d99de38df7b
+Практики:
+<br>
+https://north-baron-8f3.notion.site/5874554c3d654964983d8d99de38df7b
+<br>
+https://north-baron-8f3.notion.site/Java-9ba6c393e11044599989460fd4870510
 <br>
 https://github.com/fl-3650/JavaExamPractice
 
